@@ -20,6 +20,11 @@ p {
     font-size: 15px;
 }
 
+.l1 {
+    font-style: italic;
+}
+
+
 em {  
     color: rgb(181, 181, 181);
 }
