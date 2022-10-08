@@ -40,4 +40,11 @@ nav a {
 
 .produtos li{
     display: inline-block;
+    text-align: center;
+}
+
+.produtos{
+    width: 940px;
+    margin: 0 auto;
+    width: 30%;
 }
