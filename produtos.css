@@ -62,11 +62,11 @@ nav a:hover {
 
 }
 
-.produtos li :hover{
+.produtos li:hover{
     border-color: #C78C19;
 }
 
-.produtos li :active{
+.produtos li:active{
     border-color: #088c19;
 }
 
