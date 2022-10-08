@@ -33,6 +33,11 @@ nav a {
     text-decoration: none;
 }
 
+nav a :hover{
+    color: #C78C19;
+    text-decoration: underline;
+}
+
 .perfume {
     width: 250px;
     height: 250px;
