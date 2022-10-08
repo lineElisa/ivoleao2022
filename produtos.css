@@ -45,6 +45,9 @@ nav a {
     width: 35%;
     vertical-align: top;
     background: #CCCCCC;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
 }
 
 .produtos{
@@ -65,4 +68,5 @@ nav a {
 .produto-desconto{
     font-size: 22px;
     font-weight: bold;
+    margin-top: 10px;
 }
