@@ -33,7 +33,7 @@ nav a {
     text-decoration: none;
 }
 
-nav a :hover{
+nav a :hover {
     color: #C78C19;
     text-decoration: underline;
 }
@@ -62,7 +62,7 @@ nav a :hover{
 
 }
 
-.produtos li{
+.produtos li :hover{
     border-color: #C78C19;
 }
 
