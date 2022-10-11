@@ -91,11 +91,11 @@ nav a:hover {
 
 footer{
     text-align: center;
-    background: #000000;
+    background: url(bg.jpg);
     padding: 40px 0;
 }
 
-.copyright{
+.copyright {
     color:#ffffff;
     font-size: 13px 0;
     margin: 30px 0 0;
