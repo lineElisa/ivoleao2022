@@ -173,3 +173,24 @@ form label, form p {
 .foto2.png {
     width: 60%;
 }
+
+.mapa-conteudo {
+    width: 940px;
+    margin: 0 auto;
+}
+
+.principal {
+    padding: 3em 0;
+    background: #FEFEFE;
+    width: 940px;
+    margin: 0 auto;
+}
+
+.mapa {
+    padding: 3em 0;
+    background: linear-gradient(#FEFEFE, #888888);
+}
+
+.itens:before {
+    content: "★";
+}
