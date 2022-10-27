@@ -48,6 +48,8 @@ h2 {
 }
 ul {
     display:inline-block;
+    vertical-align: top;
+
 }
 
 
