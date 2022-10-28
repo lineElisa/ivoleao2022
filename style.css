@@ -196,8 +196,8 @@ td, th{
     padding: 8px 15px;
 }
 
-
-/* css da pagina inicial /*
-.banner {
-    width: 100%;
+.titulo-centralizado{
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1mm;
 }
