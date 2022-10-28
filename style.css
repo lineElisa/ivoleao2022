@@ -166,17 +166,6 @@ form label, form p {
     font-weight: bold;
 }
 
-td, th{
-    border: 1px solid #000000;
-    padding: 8px 15px;
-}
-
-
-/* css da pagina inicial /*
-.banner {
-    width: 100%;
-}
-
 .foto2.png {
     width: 60%;
 }
@@ -200,4 +189,15 @@ td, th{
 
 .itens:before {
     content: "★";
+}
+
+td, th{
+    border: 1px solid #000000;
+    padding: 8px 15px;
+}
+
+
+/* css da pagina inicial /*
+.banner {
+    width: 100%;
 }
