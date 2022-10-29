@@ -107,8 +107,7 @@ footer{
 }
 
 .main {
-    width: 940px;
-    margin: 0 auto;
+    
 }
 
 form {
@@ -167,7 +166,7 @@ form label, form p {
 
 .marcas {
     padding: 3em 0;
-    background: #888888;
+    background: #FEFEFE;
 }
 
 .conteudo-marcas {
@@ -190,7 +189,7 @@ form label, form p {
 }
 
 .foto2.png {
-    width: 80%;
+    width: 60%;
 }
 
 .mapa-conteudo {
@@ -208,6 +207,8 @@ form label, form p {
 .mapa {
     padding: 3em 0;
     background: linear-gradient(#FEFEFE, #888888);
+    width: 940px;
+    margin: 0 auto;
 }
 
 .itens:before {
@@ -228,6 +229,11 @@ td, th{
     text-align: center;
     font-size: 2em;
     margin: 0 0 1em;
+}
+
+.principal {
+    padding: 3em 0;
+    background: #FEFEFE;
 }
 
 .principal p {
