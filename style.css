@@ -188,8 +188,11 @@ form label, form p {
     font-weight: bold;
 }
 
+
 .foto2.png {
-    width: 60%;
+    width: calc(40% - ((26px * 4) / 4);
+    float: left;
+    margin: 0 20px 20px 0;
 }
 
 .mapa-conteudo {
