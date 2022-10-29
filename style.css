@@ -169,6 +169,12 @@ form label, form p {
     background: #FEFEFE;
 }
 
+.imagem-marcas {
+    width: calc(40% - ((26px * 4) / 4);
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
 .conteudo-marcas {
     width: 640px;
     margin: 0 auto;
