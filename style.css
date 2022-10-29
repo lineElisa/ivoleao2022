@@ -196,8 +196,20 @@ td, th{
     padding: 8px 15px;
 }
 
-.titulo-centralizado{
+.titulo-centralizado {
     text-align: center;
     font-size: 2em;
-    margin: 0 0 1mm;
+    margin: 0 0 1em;
+}
+
+.principal p {
+    margin: 0 0 1em;
+}
+
+.principal strong {
+    font-weight: bold;
+}
+
+.principal em {
+    font-style: italic;
 }
