@@ -207,6 +207,8 @@ form label, form p {
 .mapa {
     padding: 3em 0;
     background: linear-gradient(#FEFEFE, #888888);
+    width: 940px;
+    margin: 0 auto;
 }
 
 .mapa-conteudo {
