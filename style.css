@@ -230,10 +230,10 @@ form label, form p {
 }
 
 .mapa {
-    padding: 3em 0;
+    padding: 6em 0;
     background: linear-gradient(#FEFEFE, #888888);
     width: 940px;
-    margin: none;
+    margin: 3 auto;
 }
 
 .mapa-conteudo {
