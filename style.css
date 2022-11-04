@@ -43,6 +43,20 @@ nav a {
     text-decoration: none;
 }
 
+.h3 {
+
+        display: block;
+        font-size: 4em;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        font-weight: bold;
+        text-align: center;
+
+    
+}
+
 nav a:hover {
     color: #C78C19;
     text-decoration: underline;
