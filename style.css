@@ -299,8 +299,18 @@ ul {
     list-style: none;
 }
 
-.veja1 {
-    
+nav1 a{
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
 
+}
+
+
+.veja1 a:hover {
+    color: #000000;
+    text-decoration: underline;
 
 }
