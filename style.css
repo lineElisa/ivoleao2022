@@ -250,6 +250,28 @@ td, th{
     padding: 8px 15px;
 }
 
+nav1 a{
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+
+}
+
+
+.veja1 a:hover {
+    color: #000000;
+    text-decoration: underline;
+
+}
+
+.veja2 a:hover {
+    color: #000000;
+    text-decoration: underline;
+
+}
+
 /* css  da pagina inicial */
 .banner {
     width: 100%;
@@ -299,24 +321,7 @@ ul {
     list-style: none;
 }
 
-nav1 a{
-    text-transform: uppercase;
-    color: #000000;
-    font-weight: bold;
-    font-size: 22px;
-    text-decoration: none;
-
-}
-
-
-.veja1 a:hover {
-    color: #000000;
-    text-decoration: underline;
-
-}
-
-.veja2 a:hover {
-    color: #000000;
-    text-decoration: underline;
-
+.rodape {
+    width: 450px;
+    height: 450px;
 }
