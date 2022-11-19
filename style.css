@@ -13,9 +13,11 @@ header {
     padding: 100px 0;
 }
 
-.foto1 {
-    width: 250px;
-    height: 150px;
+#foto1 {
+    position: relative;
+    top: -2px;
+    right: 476px;
+    
 }
 
 .caixa {
