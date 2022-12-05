@@ -68,7 +68,7 @@ nav a:hover {
  }
 
 .produtos li:active {
-    border-color: rgb(9, 160, 9);
+    border-color: rgb(0, 0, 0);
 }
 
 .produtos li:hover h2 {
@@ -149,7 +149,7 @@ form label, form legend {
 }
 
 .enviar:hover {
-  background: rgb(1, 163, 1);
+  background: rgb(0, 0, 0);
   transform: scale(1.2);
 }
 
@@ -225,7 +225,7 @@ td, th {
 
 .beneficios {
   padding: 3em 0;
-  background: rgb(191, 245, 111);
+  background: rgb(0, 0, 0);
 }
 
 .conteudo-beneficios {
