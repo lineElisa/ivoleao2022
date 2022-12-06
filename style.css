@@ -10,7 +10,7 @@ body {
 }
 
 header {
-    background: rgb(255, 255, 255);
+    background: rgb(245, 195, 240);
     padding: 20px 0;
 }
 
@@ -210,8 +210,7 @@ td, th {
 
 .mapa {
   padding: 3em 0;
-  background: linear-gradient( rgb(245, 195, 240), rgb(0, 0, 0));
-}
+  background: linear-gradient( rgb(245, 195, 240), rgb(245, 195, 240));}
 
 .mapa-conteudo {
   width: 940px;
